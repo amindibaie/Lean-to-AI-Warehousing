@@ -1,0 +1,174 @@
+<!DOCTYPE html>
+<html lang="fa" dir="rtl">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>معرفی نویسندگان کتاب: سفر به قلب تحول دیجیتال؛ از ناب سازی تا هوشمندسازی انبار</title>
+  <style>
+    body {
+      font-family: 'Tahoma', 'B Yekan', Arial, sans-serif;
+      background: #f7f7f7;
+      color: #333;
+      line-height: 2;
+      margin: 0;
+      padding: 0;
+    }
+    .container {
+      max-width: 900px;
+      margin: 40px auto;
+      padding: 30px;
+      background: white;
+      border-radius: 14px;
+      box-shadow: 0 0 20px rgba(0,0,0,0.1);
+      text-align: justify;
+    }
+    h1, h2 {
+      color: #2c3e50;
+      border-bottom: 2px solid #eee;
+      padding-bottom: 10px;
+    }
+    .author {
+      margin-bottom: 30px;
+      padding: 18px;
+      background: #f9f9f9;
+      border-radius: 12px;
+      border-right: 4px solid #2980b9;
+    }
+    .contact {
+      margin-top: 12px;
+      padding-top: 10px;
+      font-size: 15px;
+      color: #444;
+    }
+    .contact a {
+      color: #2980b9;
+      text-decoration: none;
+    }
+    .contact a:hover {
+      text-decoration: underline;
+    }
+    .resources {
+      margin-top: 40px;
+      padding: 25px;
+      background: #e8f5ff;
+      border-radius: 12px;
+      border: 1px solid #b3daff;
+    }
+    .resources h3 {
+      margin-top: 0;
+      color: #1a659e;
+    }
+    .resources a {
+      display: block;
+      margin: 12px 0;
+      padding: 14px;
+      background: #2980b9;
+      color: white !important;
+      text-align: center;
+      font-weight: bold;
+      text-decoration: none;
+      border-radius: 8px;
+      transition: background 0.3s;
+    }
+    .resources a:hover {
+      background: #1a6aa1;
+    }
+    .resources p {
+      text-align: center;
+      margin-bottom: 15px;
+      color: #333;
+    }
+    footer {
+      text-align: center;
+      margin-top: 40px;
+      color: #777;
+      font-size: 14px;
+    }
+    .logo {
+      text-align: center;
+      margin-bottom: 20px;
+      color: #2980b9;
+      font-size: 26px;
+      font-weight: bold;
+    }
+    .divider {
+      height: 1px;
+      background: #ddd;
+      margin: 30px 0;
+    }
+  </style>
+</head>
+<body>
+
+  <div class="container">
+
+    <!-- لوگوی کتاب -->
+    <div class="logo">📘 انبار هوشمند</div>
+
+    <h1>نویسندگان کتاب</h1>
+
+    <!-- نویسنده 1 -->
+    <div class="author">
+      <h2>۱- دکتر عبدالله آقایی</h2>
+      <p>
+        استاد تمام دانشکده مهندسی صنایع دانشگاه صنعتی خواجه نصیرالدین طوسی
+      </p>
+      <div class="contact">
+        <strong>وبسایت رسمی:</strong> 
+        <a href="http://cv.kntu.ac.ir/abdollahaghaie/category/12/" target="_blank">
+          http://cv.kntu.ac.ir/abdollahaghaie/category/12/
+        </a><br>
+        <strong>ایمیل:</strong> <a href="mailto:aaghaie@kntu.ac.ir">aaghaie@kntu.ac.ir</a><br>
+        <strong>شماره تماس:</strong> 0912XXXXXXX
+      </div>
+    </div>
+
+    <div class="divider"></div>
+
+    <!-- نویسنده 2 -->
+    <div class="author">
+      <h2>۲- امین دیبائی</h2>
+      <p>
+        فارغ‌التحصیل کارشناسی مهندسی صنایع دانشگاه صنعتی امیرکبیر و کارشناسی ارشد مهندسی صنایع دانشگاه صنعتی خواجه نصیرالدین طوسی.
+      </p>
+      <p>
+        سابقه تدریس در دانشگاه سمنان و دانشگاه آزاد اسلامی واحد سمنان.
+      </p>
+      <p>
+        دارای بیش از ۲۵ سال سابقه کار در حوزه زنجیره تأمین قطعات خودرو در شرکت‌های ساپکو و عقاب افشان.
+      </p>
+      <div class="contact">
+        <strong>ایمیل:</strong> <a href="mailto:dibaieamin@gmail.com">dibaieamin@gmail.com</a><br>
+        <strong>شماره تماس:</strong> 09122310848
+      </div>
+    </div>
+
+    <!-- بخش منابع -->
+    <div class="resources">
+      <h2>📥 دسترسی به منابع کتاب</h2>
+
+      <h3>منابع استفاده‌شده در تدوین کتاب</h3>
+      <p>
+        شامل فایل‌های آموزشی، تصاویر، نمونه‌ها و محتوای مرتبط با فصول کتاب
+      </p>
+      <a href="https://mega.nz/folder/H8A1harQ#y1r2xXVSk08XbxsqpUOrdw" target="_blank">
+        🔹 دانلود منابع کتاب از MEGA
+      </a>
+
+      <h3 style="margin-top: 25px;">گزارشات و منابع جدید</h3>
+      <p>
+        به‌روزرسانی‌ها، گزارش‌های تخصصی و محتوای تکمیلی برای خوانندگان
+      </p>
+      <a href="https://mega.nz/folder/a1B1CCJZ#awCxnZgFYUucE4vjCcUqaA" target="_blank">
+        🔹 دسترسی به گزارشات جدید از MEGA
+      </a>
+    </div>
+
+    <footer>
+      تمامی حقوق متعلق به نویسندگان کتاب است.<br>
+      استفاده از مطالب کتاب با ذکر منبع و نام نویسندگان مجاز می‌باشد.
+    </footer>
+
+  </div>
+</body>
+</html>
